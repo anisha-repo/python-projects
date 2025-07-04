@@ -15,6 +15,13 @@ This repository is ideal for learning, portfolio building, and showcasing my ski
 - Saved cleaned output to `.csv`/`.xlsx` for further use
 - [🔗 View Project Folder](./Open%20Food%20Facts%20Data%20Analysis)
 
+### 📊 [Student Performance Dashboard](./Student%20Performance%20Data%20Analysis)
+- Analyzed student exam scores in Math, Reading, and Writing
+- Used `pandas` and `NumPy` to calculate averages and classify performance
+- Grouped insights by gender, education, and test prep completion
+- Included bar charts and histograms using `matplotlib`
+- [🔗 View Project Folder](./Student%20Performance%20Data%20Analysis)
+
 ---
 
 ## 🚀 How to Use This Repository
@@ -29,7 +36,6 @@ cd python-projects
 
 These will be added soon as part of my learning journey:
 
-- 📊 Student Performance Dashboard
 - 🕸️ Web Scraper using `requests` and `BeautifulSoup`
 - 🧹 Data Cleaning and Outlier Detection
 - 📂 File Organizer Tool (OS Automation)
