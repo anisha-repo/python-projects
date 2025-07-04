@@ -1,0 +1,23 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code config
+.vscode/
+
+# Output or export folders
+output/
+*.csv
+*.tsv
+*.xlsx
+
+# Virtual environments
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
