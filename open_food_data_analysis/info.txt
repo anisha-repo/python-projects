@@ -1,0 +1,5 @@
+what you can say about this project:-
+“I analyzed a global food product dataset with 300K+ items.
+I cleaned and focused on nutrition, brand, and geography data.
+Then, I found the most popular brands, sugar-heavy foods, and top countries.
+I also identified the healthiest and unhealthiest items using NutriScore.”
